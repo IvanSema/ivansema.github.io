@@ -1,5 +1,5 @@
 # ivansema.github.io
-https://github.com/IvanSema/homework1 - First Homework
-https://github.com/IvanSema/homework2 - Second Homework
-https://github.com/IvanSema/homework3.simple - Third Homework. Simple part.
-https://github.com/IvanSema/homework3.hard - Third Homework. Hard part.
+[First Homework] (https://github.com/IvanSema/homework1)
+[Second Homework] (https://github.com/IvanSema/homework2) 
+Third Homework. [Simple part] (https://github.com/IvanSema/homework3.simple)
+Third Homework. [Hard part] (https://github.com/IvanSema/homework3.hard)
