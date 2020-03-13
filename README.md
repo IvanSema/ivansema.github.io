@@ -11,3 +11,4 @@
 - Fifth Homework. [Part 2](https://ivansema.github.io/homework5.part2/)
 - Sixth Homework. [Part1](https://ivansema.github.io/homework6.part1/)
 - Sixth Homework. [Part2](https://ivansema.github.io/homework6.part2/index.html)
+- Seventh Homework. [Part1](https://ivansema.github.io/homework7part1/)
