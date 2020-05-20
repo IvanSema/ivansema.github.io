@@ -26,3 +26,4 @@
 - Thirteenth Homework. [link](https://ivansema.github.io/homework13/)
 
 - Exam. [link](https://ivansema.github.io/first_exam/)
+- Exam2. [link](https://ivansema.github.io/exam2)
